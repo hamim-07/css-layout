@@ -1,0 +1,17 @@
+.container{
+	overflow: hidden;
+}
+
+.blog{
+	float: left;
+	width: 50%;
+	height: 200px;
+	background-color: green;
+}
+
+.contact{
+	float: left;
+	width: 50%;
+	height: 200px;
+	background-color: blue;
+}
